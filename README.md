@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @maykhel-deleon, I'm a software development engineer (SDE) at Al Hathboor Bikal.ai, a UAE-based tech and product development company.
-- 👀 I’m interested in AI/ML/DL, Computer Vision and High-Performance Computing.
-- 🌱 I'm passionate about using technology to solve real-world problems, and I'm always looking for new challenges.
-- 👀 I'm also a strong believer in open-source software, and I'm always happy to contribute to open-source projects.
-- 💞️ If you're interested in working with me, or if you have any questions, please feel free to reach out to me at mdeleon@ahb.ai.
+👋 **Welcome to my GitHub**!
 
-- Thank you for visiting my Github profile!
+I'm Maykhel De Leon, a passionate AI Engineer at Al Hathboor Bikal.ai, a UAE-based tech and product innovation company.
 
-<!---
-maykhel-deleon/maykhel-deleon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **What I Do:**
+I specialize in building cutting-edge solutions in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). With a keen focus on High-Performance Computing (HPC), I thrive on solving complex, real-world problems that require scale, precision, and innovation.
+
+👀 **My Interests:**
+
+**AI/ML/DL:** Pioneering advancements in generative AI, computer vision, and predictive analytics.
+High-Performance Computing: Optimizing large-scale distributed systems for AI workloads.
+**Open Source:** A committed advocate for open-source collaboration, always ready to contribute to impactful projects.
+
+**🌱 What Drives Me:**
+I'm driven by a deep curiosity to push the boundaries of technology and create solutions that leave a meaningful impact. Whether it's deploying AI models on cutting-edge HPC infrastructure or crafting intelligent systems to address real-world challenges, I’m always eager for the next big challenge.
+
+**📩 Let’s Connect:**
+If you're as passionate about AI, ML, and HPC as I am—or have exciting opportunities in these domains—I’d love to hear from you! Feel free to reach out to me at iammaykhel@gmail.com/mdeleon@ahb.ai.
