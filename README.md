@@ -9,6 +9,7 @@ I specialize in building cutting-edge solutions in Artificial Intelligence (AI),
 
 **AI/ML/DL:** Pioneering advancements in generative AI, computer vision, and predictive analytics.
 High-Performance Computing: Optimizing large-scale distributed systems for AI workloads.
+
 **Open Source:** A committed advocate for open-source collaboration, always ready to contribute to impactful projects.
 
 **🌱 What Drives Me:**
